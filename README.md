@@ -57,7 +57,14 @@ AI 会从几百篇里，把相关段落给你拽出来，再帮你串成一个�
 
 激活码加微信 coconut_256 拿，10元一个，付费也是为了可持续发展，未来会持续更新的
 
-![](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/we_chat.jpg)
+| ![](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/we_chat.jpg) | ![IMG_0248](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/IMG_0248.jpg) |
+| :----------------------------------------------------------: | ------------------------------------------------------------ |
+
+**公众号：**
+
+![image-20260514164037002](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/image-20260514164037002.png)
+
+
 
 **第 0 步:你得有一个自己的公众号。**
 
