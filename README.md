@@ -2,7 +2,7 @@
 
 先看效果
 
-![image-20260514161319001](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/image-20260514161319001.png)
+![image-20260517130658104](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/image-20260517130658104.png)
 
 
 
@@ -100,7 +100,7 @@ AI 会从几百篇里，把相关段落给你拽出来，再帮你串成一个�
 
 **第 6 步**:点开,搜你想扒的公众号,一键导出 md。
 
-![](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/image-20260510000331331.png)
+![image-20260517130737903](https://cdn.jsdelivr.net/gh/coconut-256/img-bed/images/image-20260517130737903.png)
 
 整个过程,不夸张,真的就 1 分钟。
 
